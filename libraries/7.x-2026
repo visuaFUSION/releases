@@ -17,7 +17,7 @@
       <tag>7.x-2026.01</tag>
       <status>published</status>
       <release_link>https://github.com/visuafusion/drupal-7</release_link>
-      <download_link>https://github.com/visuafusion/drupal-7/releases/download/modules-7.x-2026.01/libraries-7.x-2026.01.tar.gz</download_link>
+      <download_link>https://github.com/visuaFUSION/drupal-7-modules/releases/download/libraries-7.x-2026.01/libraries-7.x-2026.01.zip</download_link>
       <date>1736424000</date>
       <terms>
         <term><name>Release type</name><value>Security update</value></term>
