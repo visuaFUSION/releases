@@ -3,6 +3,10 @@
   <title>Drupal 7 LTSR</title>
   <short_name>drupal</short_name>
   <dc:creator>visuaFUSION</dc:creator>
+  <api_version>7.x</api_version>
+  <recommended_major>7</recommended_major>
+  <supported_majors>7</supported_majors>
+  <default_major>7</default_major>
   <supported_branches>7.x</supported_branches>
   <project_status>published</project_status>
   <link>https://github.com/visuafusion/drupal-7</link>
@@ -16,6 +20,8 @@
       <name>drupal 7.2026.01</name>
       <version>7.2026.01</version>
       <tag>7.2026.01</tag>
+      <version_major>7</version_major>
+      <version_patch>202601</version_patch>
       <status>published</status>
       <release_link>https://github.com/visuafusion/drupal-7/releases/tag/7.2026.01</release_link>
       <download_link>https://github.com/visuafusion/drupal-7/archive/refs/tags/7.2026.01.tar.gz</download_link>
@@ -30,6 +36,8 @@
       <name>drupal 7.103</name>
       <version>7.103</version>
       <tag>7.103</tag>
+      <version_major>7</version_major>
+      <version_patch>103</version_patch>
       <status>published</status>
       <release_link>https://www.drupal.org/project/drupal/releases/7.103</release_link>
       <download_link>https://ftp.drupal.org/files/projects/drupal-7.103.tar.gz</download_link>
@@ -43,6 +51,8 @@
       <name>drupal 7.102</name>
       <version>7.102</version>
       <tag>7.102</tag>
+      <version_major>7</version_major>
+      <version_patch>102</version_patch>
       <status>published</status>
       <release_link>https://www.drupal.org/project/drupal/releases/7.102</release_link>
       <download_link>https://ftp.drupal.org/files/projects/drupal-7.102.tar.gz</download_link>
@@ -56,6 +66,8 @@
       <name>drupal 7.101</name>
       <version>7.101</version>
       <tag>7.101</tag>
+      <version_major>7</version_major>
+      <version_patch>101</version_patch>
       <status>published</status>
       <release_link>https://www.drupal.org/project/drupal/releases/7.101</release_link>
       <download_link>https://ftp.drupal.org/files/projects/drupal-7.101.tar.gz</download_link>
@@ -69,6 +81,8 @@
       <name>drupal 7.100</name>
       <version>7.100</version>
       <tag>7.100</tag>
+      <version_major>7</version_major>
+      <version_patch>100</version_patch>
       <status>published</status>
       <release_link>https://www.drupal.org/project/drupal/releases/7.100</release_link>
       <download_link>https://ftp.drupal.org/files/projects/drupal-7.100.tar.gz</download_link>

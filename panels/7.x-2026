@@ -3,6 +3,10 @@
   <title>Panels</title>
   <short_name>panels</short_name>
   <dc:creator>visuaFUSION LTSR</dc:creator>
+  <api_version>7.x</api_version>
+  <recommended_major>2026</recommended_major>
+  <supported_majors>2026</supported_majors>
+  <default_major>2026</default_major>
   <supported_branches>7.x-2026</supported_branches>
   <project_status>published</project_status>
   <link>https://github.com/visuafusion/drupal-7</link>
@@ -15,6 +19,8 @@
       <name>panels 7.x-2026.01</name>
       <version>7.x-2026.01</version>
       <tag>7.x-2026.01</tag>
+      <version_major>2026</version_major>
+      <version_patch>01</version_patch>
       <status>published</status>
       <release_link>https://github.com/visuafusion/drupal-7</release_link>
       <download_link>https://github.com/visuaFUSION/drupal-7-modules/releases/download/panels-7.x-2026.01/panels-7.x-2026.01.zip</download_link>
