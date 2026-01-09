@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title>Display Suite</title>
+  <short_name>ds</short_name>
+  <dc:creator>visuaFUSION LTSR</dc:creator>
+  <supported_branches>7.x-2026</supported_branches>
+  <project_status>published</project_status>
+  <link>https://github.com/visuafusion/drupal-7</link>
+  <terms>
+    <term><name>Projects</name><value>Modules</value></term>
+    <term><name>Maintenance status</name><value>Actively maintained</value></term>
+  </terms>
+  <releases>
+    <release>
+      <name>ds 7.x-2026.01</name>
+      <version>7.x-2026.01</version>
+      <tag>7.x-2026.01</tag>
+      <status>published</status>
+      <release_link>https://github.com/visuafusion/drupal-7</release_link>
+      <download_link>https://github.com/visuafusion/drupal-7/releases/download/modules-7.x-2026.01/ds-7.x-2026.01.tar.gz</download_link>
+      <date>1736424000</date>
+      <terms>
+        <term><name>Release type</name><value>Security update</value></term>
+      </terms>
+      <security covered="1">Covered by Drupal 7 LTSR security advisories</security>
+    </release>
+  </releases>
+</project>
