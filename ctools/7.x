@@ -16,6 +16,21 @@
   </terms>
   <releases>
     <release>
+      <name>ctools 7.x-2026.03</name>
+      <version>7.x-2026.03</version>
+      <tag>7.x-2026.03</tag>
+      <version_major>2026</version_major>
+      <version_patch>03</version_patch>
+      <status>published</status>
+      <release_link>https://github.com/visuaFUSION/drupal-7-modules/releases/tag/ctools-7.x-2026.03</release_link>
+      <download_link>https://github.com/visuaFUSION/drupal-7-modules/releases/download/ctools-7.x-2026.03/ctools-7.x-2026.03.zip</download_link>
+      <date>1736553600</date>
+      <terms>
+        <term><name>Release type</name><value>New features</value></term>
+      </terms>
+      <security covered="1">Covered by Drupal 7 LTSR security advisories</security>
+    </release>
+    <release>
       <name>ctools 7.x-2026.01</name>
       <version>7.x-2026.01</version>
       <tag>7.x-2026.01</tag>
