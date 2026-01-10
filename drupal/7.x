@@ -24,7 +24,7 @@
       <version_patch>202602</version_patch>
       <status>published</status>
       <release_link>https://github.com/visuafusion/drupal-7/releases/tag/7.2026.02</release_link>
-      <download_link>https://github.com/visuafusion/drupal-7/archive/refs/tags/7.2026.02.tar.gz</download_link>
+      <download_link>https://github.com/visuafusion/drupal-7/archive/refs/tags/7.2026.02.zip</download_link>
       <date>1736510400</date>
       <terms>
         <term><name>Release type</name><value>New features</value></term>
@@ -39,7 +39,7 @@
       <version_patch>202601</version_patch>
       <status>published</status>
       <release_link>https://github.com/visuafusion/drupal-7/releases/tag/7.2026.01</release_link>
-      <download_link>https://github.com/visuafusion/drupal-7/archive/refs/tags/7.2026.01.tar.gz</download_link>
+      <download_link>https://github.com/visuafusion/drupal-7/archive/refs/tags/7.2026.01.zip</download_link>
       <date>1736424000</date>
       <terms>
         <term><name>Release type</name><value>Security update</value></term>
