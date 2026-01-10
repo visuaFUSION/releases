@@ -17,6 +17,21 @@
   </terms>
   <releases>
     <release>
+      <name>drupal 7.2026.02</name>
+      <version>7.2026.02</version>
+      <tag>7.2026.02</tag>
+      <version_major>7</version_major>
+      <version_patch>202602</version_patch>
+      <status>published</status>
+      <release_link>https://github.com/visuafusion/drupal-7/releases/tag/7.2026.02</release_link>
+      <download_link>https://github.com/visuafusion/drupal-7/archive/refs/tags/7.2026.02.tar.gz</download_link>
+      <date>1736510400</date>
+      <terms>
+        <term><name>Release type</name><value>New features</value></term>
+      </terms>
+      <security covered="1">Covered by Drupal 7 LTSR security advisories</security>
+    </release>
+    <release>
       <name>drupal 7.2026.01</name>
       <version>7.2026.01</version>
       <tag>7.2026.01</tag>
