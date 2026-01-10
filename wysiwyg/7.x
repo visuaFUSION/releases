@@ -9,7 +9,7 @@
   <default_major>2026</default_major>
   <supported_branches>7.x-2026</supported_branches>
   <project_status>published</project_status>
-  <link>https://github.com/visuafusion/drupal-7</link>
+  <link>https://github.com/visuaFUSION/drupal-7-modules/tree/main/wysiwyg</link>
   <terms>
     <term><name>Projects</name><value>Modules</value></term>
     <term><name>Maintenance status</name><value>Actively maintained</value></term>
