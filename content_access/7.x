@@ -22,7 +22,7 @@
       <version_major>2026</version_major>
       <version_patch>01</version_patch>
       <status>published</status>
-      <release_link>https://github.com/visuafusion/drupal-7</release_link>
+      <release_link>https://github.com/visuaFUSION/drupal-7-modules/releases/tag/content_access-7.x-2026.01</release_link>
       <download_link>https://github.com/visuaFUSION/drupal-7-modules/releases/download/content_access-7.x-2026.01/content_access-7.x-2026.01.zip</download_link>
       <date>1736424000</date>
       <terms>
