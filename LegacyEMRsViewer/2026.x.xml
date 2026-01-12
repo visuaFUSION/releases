@@ -10,6 +10,19 @@
   <link>https://github.com/visuafusion/LegacyEMRsViewer</link>
   <releases>
     <release>
+      <name>LEV 2026.01.12.18</name>
+      <version>2026.01.12.18</version>
+      <tag>2026.01.12.18</tag>
+      <status>published</status>
+      <release_link>https://github.com/visuafusion/LegacyEMRsViewer/releases/tag/2026.01.12.18</release_link>
+      <download_link>https://github.com/visuafusion/LegacyEMRsViewer/archive/refs/tags/2026.01.12.18.zip</download_link>
+      <date>1768205800</date>
+      <terms>
+        <term><name>Release type</name><value>Bug fixes</value></term>
+      </terms>
+      <security covered="1">Covered by visuaFUSION security advisories</security>
+    </release>
+    <release>
       <name>LEV 2026.01.12.17</name>
       <version>2026.01.12.17</version>
       <tag>2026.01.12.17</tag>
