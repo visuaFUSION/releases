@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title>Legacy EMRs Viewer</title>
+  <short_name>lev</short_name>
+  <dc:creator>visuaFUSION</dc:creator>
+  <api_version>2026.x</api_version>
+  <recommended_major>2026</recommended_major>
+  <supported_branches>2026.x</supported_branches>
+  <project_status>published</project_status>
+  <link>https://github.com/visuafusion/LegacyEMRsViewer</link>
+  <releases>
+    <release>
+      <name>LEV 2026.01.12.13</name>
+      <version>2026.01.12.13</version>
+      <tag>2026.01.12.13</tag>
+      <status>published</status>
+      <release_link>https://github.com/visuafusion/LegacyEMRsViewer/releases/tag/2026.01.12.13</release_link>
+      <download_link>https://github.com/visuafusion/LegacyEMRsViewer/archive/refs/tags/2026.01.12.13.zip</download_link>
+      <date>1736697600</date>
+      <terms>
+        <term><name>Release type</name><value>Bug fixes</value></term>
+      </terms>
+      <security covered="1">Covered by visuaFUSION security advisories</security>
+    </release>
+    <release>
+      <name>LEV 2026.01.12.12</name>
+      <version>2026.01.12.12</version>
+      <tag>2026.01.12.12</tag>
+      <status>published</status>
+      <release_link>https://github.com/visuafusion/LegacyEMRsViewer/releases/tag/2026.01.12.12</release_link>
+      <download_link>https://github.com/visuafusion/LegacyEMRsViewer/archive/refs/tags/2026.01.12.12.zip</download_link>
+      <date>1736611200</date>
+      <terms>
+        <term><name>Release type</name><value>New features</value></term>
+      </terms>
+      <security covered="1">Covered by visuaFUSION security advisories</security>
+    </release>
+    <release>
+      <name>LEV 2026.01.12.11</name>
+      <version>2026.01.12.11</version>
+      <tag>2026.01.12.11</tag>
+      <status>published</status>
+      <release_link>https://github.com/visuafusion/LegacyEMRsViewer/releases/tag/2026.01.12.11</release_link>
+      <download_link>https://github.com/visuafusion/LegacyEMRsViewer/archive/refs/tags/2026.01.12.11.zip</download_link>
+      <date>1736524800</date>
+      <terms>
+        <term><name>Release type</name><value>New features</value></term>
+      </terms>
+      <security covered="1">Covered by visuaFUSION security advisories</security>
+    </release>
+  </releases>
+</project>
