@@ -10,15 +10,15 @@
   <link>https://visuafusion.com/Applications/legacy-emrs-viewer</link>
   <releases>
     <release>
-      <name>LEV 2026.01.13.68</name>
-      <version>2026.01.13.68</version>
-      <tag>2026.01.13.68</tag>
+      <name>LEV 2026.01.13.70</name>
+      <version>2026.01.13.70</version>
+      <tag>2026.01.13.70</tag>
       <status>published</status>
-      <release_link>https://visuafusion.com/Applications/legacy-emrs-viewer?v=2026.01.13.68</release_link>
-      <download_link>https://visuafusion.com/Applications/legacy-emrs-viewer?v=2026.01.13.68</download_link>
-      <date>1768319468</date>
+      <release_link>https://visuafusion.com/Applications/legacy-emrs-viewer?v=2026.01.13.70</release_link>
+      <download_link>https://visuafusion.com/Applications/legacy-emrs-viewer?v=2026.01.13.70</download_link>
+      <date>1768319470</date>
       <terms>
-        <term><name>Release type</name><value>Security update</value></term>
+        <term><name>Release type</name><value>Bug fix</value></term>
       </terms>
       <security covered="1">Covered by visuaFUSION security advisories</security>
     </release>
