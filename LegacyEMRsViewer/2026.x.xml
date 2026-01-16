@@ -10,12 +10,48 @@
   <link>https://visuafusion.com/Applications/legacy-emrs-viewer</link>
   <releases>
     <release>
+      <name>LEMR 2026.01.16.32</name>
+      <version>2026.01.16.32</version>
+      <tag>2026.01.16.32</tag>
+      <status>published</status>
+      <release_link>https://visuafusion.com/Applications/legacy-emrs-viewer?v=2026.01.16.32</release_link>
+      <download_link>https://visuafusion.com/Applications/legacy-emrs-viewer?v=2026.01.16.32</download_link>
+      <date>1768608000</date>
+      <terms>
+        <term>Enhancements</term>
+      </terms>
+    </release>
+    <release>
+      <name>LEMR 2026.01.16.31</name>
+      <version>2026.01.16.31</version>
+      <tag>2026.01.16.31</tag>
+      <status>published</status>
+      <release_link>https://visuafusion.com/Applications/legacy-emrs-viewer?v=2026.01.16.31</release_link>
+      <download_link>https://visuafusion.com/Applications/legacy-emrs-viewer?v=2026.01.16.31</download_link>
+      <date>1768608000</date>
+      <terms>
+        <term>Bug Fixes</term>
+      </terms>
+    </release>
+    <release>
       <name>LEMR 2026.01.16.30</name>
       <version>2026.01.16.30</version>
       <tag>2026.01.16.30</tag>
       <status>published</status>
       <release_link>https://visuafusion.com/Applications/legacy-emrs-viewer?v=2026.01.16.30</release_link>
       <download_link>https://visuafusion.com/Applications/legacy-emrs-viewer?v=2026.01.16.30</download_link>
+      <date>1768608000</date>
+      <terms>
+        <term>Bug Fixes</term>
+      </terms>
+    </release>
+    <release>
+      <name>LEMR 2026.01.16.29</name>
+      <version>2026.01.16.29</version>
+      <tag>2026.01.16.29</tag>
+      <status>published</status>
+      <release_link>https://visuafusion.com/Applications/legacy-emrs-viewer?v=2026.01.16.29</release_link>
+      <download_link>https://visuafusion.com/Applications/legacy-emrs-viewer?v=2026.01.16.29</download_link>
       <date>1768608000</date>
       <terms>
         <term>Bug Fixes</term>
