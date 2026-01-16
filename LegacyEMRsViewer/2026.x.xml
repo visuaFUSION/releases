@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title>Legacy EMRs Viewer</title>
-  <short_name>lev</short_name>
+  <short_name>lemr</short_name>
   <dc:creator>visuaFUSION</dc:creator>
   <api_version>2026.x</api_version>
   <recommended_major>2026</recommended_major>
@@ -10,7 +10,31 @@
   <link>https://visuafusion.com/Applications/legacy-emrs-viewer</link>
   <releases>
     <release>
-      <name>LEV 2026.01.16.13</name>
+      <name>LEMR 2026.01.16.15</name>
+      <version>2026.01.16.15</version>
+      <tag>2026.01.16.15</tag>
+      <status>published</status>
+      <release_link>https://visuafusion.com/Applications/legacy-emrs-viewer?v=2026.01.16.15</release_link>
+      <download_link>https://visuafusion.com/Applications/legacy-emrs-viewer?v=2026.01.16.15</download_link>
+      <date>1768608000</date>
+      <terms>
+        <term>Bug Fixes</term>
+      </terms>
+    </release>
+    <release>
+      <name>LEMR 2026.01.16.14</name>
+      <version>2026.01.16.14</version>
+      <tag>2026.01.16.14</tag>
+      <status>published</status>
+      <release_link>https://visuafusion.com/Applications/legacy-emrs-viewer?v=2026.01.16.14</release_link>
+      <download_link>https://visuafusion.com/Applications/legacy-emrs-viewer?v=2026.01.16.14</download_link>
+      <date>1768608000</date>
+      <terms>
+        <term>Enhancements</term>
+      </terms>
+    </release>
+    <release>
+      <name>LEMR2026.01.16.13</name>
       <version>2026.01.16.13</version>
       <tag>2026.01.16.13</tag>
       <status>published</status>
@@ -22,7 +46,7 @@
       </terms>
     </release>
     <release>
-      <name>LEV 2026.01.16.12</name>
+      <name>LEMR2026.01.16.12</name>
       <version>2026.01.16.12</version>
       <tag>2026.01.16.12</tag>
       <status>published</status>
@@ -34,7 +58,7 @@
       </terms>
     </release>
     <release>
-      <name>LEV 2026.01.16.11</name>
+      <name>LEMR2026.01.16.11</name>
       <version>2026.01.16.11</version>
       <tag>2026.01.16.11</tag>
       <status>published</status>
@@ -46,7 +70,7 @@
       </terms>
     </release>
     <release>
-      <name>LEV 2026.01.16.10</name>
+      <name>LEMR2026.01.16.10</name>
       <version>2026.01.16.10</version>
       <tag>2026.01.16.10</tag>
       <status>published</status>
@@ -58,7 +82,7 @@
       </terms>
     </release>
     <release>
-      <name>LEV 2026.01.16.09</name>
+      <name>LEMR2026.01.16.09</name>
       <version>2026.01.16.09</version>
       <tag>2026.01.16.09</tag>
       <status>published</status>
@@ -70,7 +94,7 @@
       </terms>
     </release>
     <release>
-      <name>LEV 2026.01.16.08</name>
+      <name>LEMR2026.01.16.08</name>
       <version>2026.01.16.08</version>
       <tag>2026.01.16.08</tag>
       <status>published</status>
@@ -82,7 +106,7 @@
       </terms>
     </release>
     <release>
-      <name>LEV 2026.01.16.07</name>
+      <name>LEMR2026.01.16.07</name>
       <version>2026.01.16.07</version>
       <tag>2026.01.16.07</tag>
       <status>published</status>
@@ -94,7 +118,7 @@
       </terms>
     </release>
     <release>
-      <name>LEV 2026.01.16.06</name>
+      <name>LEMR2026.01.16.06</name>
       <version>2026.01.16.06</version>
       <tag>2026.01.16.06</tag>
       <status>published</status>
@@ -106,7 +130,7 @@
       </terms>
     </release>
     <release>
-      <name>LEV 2026.01.16.05</name>
+      <name>LEMR2026.01.16.05</name>
       <version>2026.01.16.05</version>
       <tag>2026.01.16.05</tag>
       <status>published</status>
@@ -118,7 +142,7 @@
       </terms>
     </release>
     <release>
-      <name>LEV 2026.01.16.04</name>
+      <name>LEMR2026.01.16.04</name>
       <version>2026.01.16.04</version>
       <tag>2026.01.16.04</tag>
       <status>published</status>
@@ -130,7 +154,7 @@
       </terms>
     </release>
     <release>
-      <name>LEV 2026.01.16.03</name>
+      <name>LEMR2026.01.16.03</name>
       <version>2026.01.16.03</version>
       <tag>2026.01.16.03</tag>
       <status>published</status>
